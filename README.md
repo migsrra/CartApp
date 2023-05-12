@@ -1,5 +1,5 @@
 # InternshipTest
-Using Django. Here is a link to the Postman workspace I used to test this project: https://www.postman.com/migsrra/workspace/andie-test-workspace/collection/27372112-e16d9981-7068-4d51-a0ce-3850cac35823?action=share&creator=27372112. The requirements to this test went as follows:
+This Django app is titled "shopping", as seen in the file paths. Here is a link to the Postman workspace I used to test this project: https://www.postman.com/migsrra/workspace/andie-test-workspace/collection/27372112-e16d9981-7068-4d51-a0ce-3850cac35823?action=share&creator=27372112. The requirements to this test went as follows:
 
 1. Create a model system containing the following models and model
 fields.
@@ -135,3 +135,5 @@ information
 
 ● If you wish to add any other fields or helper functions onto the cart, you
   may do so at your discretion
+  
+For the third part, I added a funcion that calculates the total order cost of any order.

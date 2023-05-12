@@ -136,4 +136,5 @@ information
 ● If you wish to add any other fields or helper functions onto the cart, you
   may do so at your discretion
   
-For the third part, I added a funcion that calculates the total order cost of any order.
+  
+For the third part, I added a function that calculates the total order cost of any order.

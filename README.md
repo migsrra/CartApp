@@ -114,8 +114,8 @@ system:
 information
 
   ○ It will need to reference both the business and the account that is
-  
     placing the order
+    
   ○ For the products in the order, you will need to store them into a
     JSON field
     

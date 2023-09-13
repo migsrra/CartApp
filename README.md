@@ -118,7 +118,6 @@ information
     
   ○ For the products in the order, you will need to store them into a
     JSON field
-    
     ■ All you need is the product ID and quantity in the JSON field
     
   ○ Add any other fields you think would be useful in an order
